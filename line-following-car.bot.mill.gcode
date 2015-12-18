@@ -1,0 +1,90 @@
+(/Applications/EAGLE-7.4.0/ulp/pcb-gcode.ulp)
+(Copyright 2005 - 2012 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../line following robot PCB/line-following-car.brd)
+(Current profile is .../EAGLE-7.4.0/ulp/profiles/generic.pp  )
+(This file generated 15年12月16日 上午10:10)
+(Settings from pcb-machine.h)
+(spindle on time = 0.0000)
+(spindle speed = 35000.0000)
+(milling depth = -1.8000)
+(tool change at 0.0000 0.0000 25.4000 )
+(feed rate xy = F300.00 )
+(feed rate z  = F300.00 )
+(Z Axis Settings)
+(  High     Up        Down     Drill)
+(8.0000 	3.0000 	-0.1500 	-1.9000 )
+(Settings from pcb-defaults.h)
+(isolate min = 0.0000)
+(isolate max = 0.1000)
+(isolate step = 0.2000)
+(Generated top drill, bottom outlines, bottom drill, )
+(Unit of measure: mm)
+(Metric Mode)
+G21
+(Absolute Coordinates)
+G90
+S35000
+G00 Z8.0000 
+G00 X0.0000 Y0.0000 
+M03
+G04 P0.000000
+G00 Z3.0000 
+G00 X2.5000 Y-0.8000 
+G01 Z-1.8000 F300.00 
+G01 X50.8000 Y-0.8000 F300.00 
+G01 X54.6000 Y-2.5000 
+G01 X91.4000 Y-2.6000 
+G01 X100.3000 Y27.9000 
+G01 X100.3000 Y53.3000 
+G01 X91.5000 Y82.5000 
+G01 X54.6000 Y82.6000 
+G01 X50.8000 Y80.8000 
+G01 X2.6000 Y80.9000 
+G01 X0.0000 Y73.7000 
+G01 X0.0000 Y6.4000 
+G01 X0.0000 Y73.6600 
+G00 Z3.0000 
+G00 X0.0000 Y6.4000 
+G01 Z-1.8000 F300.00 
+G01 X0.0000 Y6.3500 F300.00 
+G00 Z3.0000 
+G00 X0.0000 Y6.4000 
+G01 Z-1.8000 F300.00 
+G01 X2.6000 Y-0.8000 F300.00 
+G00 Z3.0000 
+G00 X61.9000 Y33.3000 
+G01 Z-1.8000 F300.00 
+G01 X64.1000 Y30.5000 F300.00 
+G01 X67.2000 Y28.1000 
+G01 X70.8000 Y26.8000 
+G01 X74.4000 Y26.5000 
+G01 X77.9000 Y27.2000 
+G01 X80.5000 Y28.4000 
+G01 X83.4000 Y30.7000 
+G01 X85.6000 Y33.7000 
+G01 X86.7000 Y36.5000 
+G01 X87.2000 Y39.5000 
+G01 X86.9000 Y42.7000 
+G01 X86.1000 Y45.2000 
+G01 X85.0000 Y47.3000 
+G01 X83.2000 Y49.5000 
+G01 X81.2000 Y51.2000 
+G01 X78.8000 Y52.5000 
+G01 X76.1000 Y53.3000 
+G01 X73.9000 Y53.5000 
+G00 Z3.0000 
+G00 X73.8000 Y53.5000 
+G01 Z-1.8000 F300.00 
+G01 X71.0000 Y53.3000 F300.00 
+G01 X67.6000 Y52.1000 
+G01 X64.4000 Y49.9000 
+G01 X61.9000 Y46.7000 
+G01 X60.7000 Y43.7000 
+G01 X60.1000 Y39.5000 
+G01 X60.7000 Y36.3000 
+G01 X61.9000 Y33.3000 
+G00 Z8.0000 
+M05
+M02
